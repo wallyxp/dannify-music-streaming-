@@ -3,7 +3,20 @@
 ## Contributing Members
 
 [Wally](https://github.com/wallyxp)
+
 [Danny](https://github.com/Danny11210)
+
+## Web Screenshots
+
+![1](https://user-images.githubusercontent.com/56500077/204143240-359a16c8-cd36-4462-a3f6-259131689f88.png)
+
+![2](https://user-images.githubusercontent.com/56500077/204143246-1f69a6da-8382-4692-b4ca-0762ab16025b.png)
+
+
+## Mobile Screenshots
+
+![1](https://user-images.githubusercontent.com/56500077/204143267-56331625-cd6b-4511-a012-1d9f209c82d5.png)
+![2](https://user-images.githubusercontent.com/56500077/204143269-cfc63e83-0d45-4fe8-adac-c32be1c4032d.png)
 
 ## Inspiration from
 
