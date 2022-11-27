@@ -15,7 +15,6 @@ export const genres = [
   { title: 'Reggae', value: 'REGGAE_DANCE_HALL' },
   { title: 'House', value: 'HOUSE' },
   { title: 'K-Pop', value: 'K_POP' },
-  { title: 'Jazz', value: 'JAZZ' },
 ];
 
 export const links = [
